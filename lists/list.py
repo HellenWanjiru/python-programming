@@ -22,9 +22,17 @@
 
 #for i in range(len(nums)):
  #   print(nums[i])
-even_nums=[]
-for num in range(20):
-    if((num%2)==0):
-        even_nums.append(num)
-for i in even_nums:
+#even_nums=[]
+#for num in range(20):
+  #  if((num%2)==0):
+ #       even_nums.append(num)
+#for i in even_nums:
+#    print(i)
+
+#to write a program with all odd numbers from 0-100
+#for i in range (1 ,101, 2):
+ #   print(i)
+
+#to write a list of even numbers
+for i in range (2, 102, 2):
     print(i)
